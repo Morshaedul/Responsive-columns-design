@@ -1,0 +1,15 @@
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+body{
+    background-color: aqua;
+}
+.row{
+   display: flex;
+   flex-direction: column;
+   
+   
+   /* margin: 10px; */
+    
+
+
+}
